@@ -1,0 +1,47 @@
+﻿.element1 {
+background: #fc0;
+float: left;
+width: 340px;
+border: solid 3px grey;
+padding: 6px;
+position: relative;
+border-radius: 10px;
+left: 50px;
+top: 20px;
+}
+ 
+.element2 {
+width: 330px;
+float: left;
+background: #CD5C5C;
+border: solid 3px grey;
+position: relative;
+padding: 6px;
+left: -175px;
+top: 68px;
+border-radius: 20px;
+}
+
+.element4 {
+width: 560px;
+float: left;
+background: #fc0;
+border: solid 3px grey;
+position: relative;
+padding: 6px;
+left: 50px;
+top: -600px;
+border-radius: 10px;
+}
+
+.element5 {
+width: 565px;
+float: left;
+background: #fc0;
+border: solid 3px grey;
+position: relative;
+padding: 6px;
+left: -500px;
+top: -450px;
+border-radius: 10px;
+}
